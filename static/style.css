@@ -1,0 +1,27 @@
+html, body {
+    height: 100%; 
+    margin: 0; 
+    padding:0px;
+}
+body {
+    background-size: cover;
+    background-position: center; 
+    background-attachment: fixed;
+    font-family: Arial,sans-serif; 
+     text-align: center;
+     }
+
+     h1{
+        font-size: 70px;
+        font-weight: 100;
+        font-style: oblique;
+        color: yellowgreen;
+     }
+        
+form {
+     margin-bottom: 20px;
+ }
+.weather-container { 
+            border: 1px solid #ccc;
+             padding: 20px; 
+             display: inline-block; }
